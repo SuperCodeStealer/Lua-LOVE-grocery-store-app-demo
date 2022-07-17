@@ -1,4 +1,4 @@
-# Lua-LOVE-grocery-store-app
+# Lua LOVE grocery store app demo
 
 You have to have love 11.2 or higher.
 To run on windows just drag the folder on love app
