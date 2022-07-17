@@ -1,0 +1,7 @@
+Made by Matej
+To change font go to
+main.lua line 4
+shift doesnt work
+a lot of things dont work
+click on item that you 
+want to delete
